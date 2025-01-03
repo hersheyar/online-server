@@ -7,7 +7,8 @@
     <list default="true" id="3b5eead6-1d94-49ed-b12c-f746d87eecd1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/catalog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/catalog.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/styles/catalog.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/styles/catalog.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735605100872</updated>
-      <workItem from="1735605103023" duration="3145000" />
+      <workItem from="1735605103023" duration="10751000" />
     </task>
     <servers />
   </component>
