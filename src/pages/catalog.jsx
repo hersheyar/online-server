@@ -4,7 +4,7 @@ import Product from "../components/products.jsx"
 
 function Catalog() {
     return (
-       <div className="catalog">
+       <div className="catalog page">
            <h1>Check out our catalog!</h1>
 
            <Product />

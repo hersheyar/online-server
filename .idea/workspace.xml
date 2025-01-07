@@ -6,9 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="3b5eead6-1d94-49ed-b12c-f746d87eecd1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/catalog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/catalog.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/styles/catalog.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/styles/catalog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/quantityPicker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/quantityPicker.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/products.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/products.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styles/quantityPicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/quantityPicker.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +25,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2qxXFp4TVfdrDBY20sT6vPBiymx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,6 +36,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Node.js.App.js.executor": "Run",
+    "Node.js.homePage.jsx.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Main",
     "last_opened_file_path": "C:/Program Files/nodejs/node.exe",
@@ -40,6 +49,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Node.js.App.js">
+    <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/App.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="homePage.jsx" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/pages/homePage.jsx" working-dir="$PROJECT_DIR$/src/pages">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.App.js" />
+        <item itemvalue="Node.js.homePage.jsx" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -57,6 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1735605100872</updated>
       <workItem from="1735605103023" duration="10751000" />
+      <workItem from="1735866774356" duration="14453000" />
     </task>
     <servers />
   </component>
