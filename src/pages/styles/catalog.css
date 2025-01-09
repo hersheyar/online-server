@@ -7,3 +7,11 @@
     padding-top: 20px;
     color: #a72c2c;
 }
+
+.catalog .filter {
+    margin-bottom: 12px;
+}
+
+.catalog .filter button {
+    margin-right: 5px;
+}

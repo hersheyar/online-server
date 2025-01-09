@@ -6,16 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3b5eead6-1d94-49ed-b12c-f746d87eecd1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/quantityPicker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/quantityPicker.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styles/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styles/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/products.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/products.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/styles/products.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/products.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styles/quantityPicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/quantityPicker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/catalog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/catalog.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/styles/catalog.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/styles/catalog.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +40,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\hersh\\AppData\\Local\\JetBrains\\PyCharm 2024.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -80,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1735605100872</updated>
       <workItem from="1735605103023" duration="10751000" />
-      <workItem from="1735866774356" duration="14453000" />
+      <workItem from="1735866774356" duration="21270000" />
     </task>
     <servers />
   </component>
