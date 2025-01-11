@@ -3,6 +3,7 @@ import Catalog from "./pages/catalog.jsx"
 import Footer from "./components/footer.jsx"
 import Homepage from "./pages/homePage.jsx"
 import About from "./pages/about.jsx"
+import Admin from "./pages/admin.jsx"
 import './App.css'
 
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
@@ -19,6 +20,7 @@ function App() {
                 <Route path='/homepage' element={ <Homepage /> }/>
                 <Route path='/catalog' element={ <Catalog /> }/>
                 <Route path='/about' element={ <About /> }/>
+                <Route path='/admin' element={ <Admin /> }/>
             </Routes>
             <Footer />
         </div>
