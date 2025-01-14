@@ -6,10 +6,12 @@ function Products(props){
         <div className="product">
             <img src={props.data.image}/>
             <h3>{props.data.title}</h3>
-            <label>$19.99</label>
-            <label>{props.data.price}</label>
+            <div className='price-container'>
+                <label>$19.99</label>
+                <label>${props.data.price}</label>
+            </div>
 
-            <QuantityPicker />
+            <QuantityPicker/>
         </div>
     );
 }

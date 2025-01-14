@@ -17,3 +17,8 @@
 .product h3{
     margin: 0;
 }
+
+.price-container {
+    display: flex;
+    justify-content: space-around;
+}
