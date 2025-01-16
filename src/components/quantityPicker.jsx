@@ -27,9 +27,6 @@ function QuantityPicker () {
                 <label>{quantity}</label>
                 <button className='btn btn-sm btn-outline-dark' onClick={increase}>+</button>
             </div>
-            <div className='add-to-cart'>
-                <button className="btn btn-sm btn-outline-dark" onClick={onAdd}>Add To Cart</button>
-            </div>
         </div>
     );
 }

@@ -22,3 +22,8 @@
     display: flex;
     justify-content: space-around;
 }
+
+.quantpick-addbutton {
+    display: flex;
+    justify-content: space-around;
+}
