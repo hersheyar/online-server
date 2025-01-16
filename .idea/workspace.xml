@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b5eead6-1d94-49ed-b12c-f746d87eecd1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/products.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/products.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/quantityPicker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/quantityPicker.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styles/products.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles/products.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/cart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/cart.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/styles/cart.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/styles/cart.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +81,7 @@
       <workItem from="1736384405207" duration="18331000" />
       <workItem from="1736698063265" duration="610000" />
       <workItem from="1736812719567" duration="11770000" />
+      <workItem from="1736988912707" duration="9562000" />
     </task>
     <servers />
   </component>

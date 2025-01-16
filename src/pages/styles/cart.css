@@ -6,3 +6,33 @@
     text-align: center;
     color: blue;
 }
+
+
+.cart-prod {
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    border-radius: 4px;
+
+}
+
+.cart .cart-prod h6{
+    flex: 3;
+}
+
+.cart .cart-prod label {
+    flex: 1;
+}
+
+.cart .cart-prod img {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+}
+
+.cart .cart-prod .btn {
+    height: 30px;
+    width: 70px;
+}

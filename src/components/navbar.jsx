@@ -57,7 +57,7 @@ function Navbar() {
                     <div className="d-flex" role="search">
                         <button className="btn btn-outline-success" type="name">{user.name}    </button>
                         <Link className="btn btn-outline-success" to="/cart">
-                            {cart.length}
+                           <span className="badge text-bg-secondary" >{cart.length}</span> View Cart
                         </Link>
                     </div>
                 </div>
