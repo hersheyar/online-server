@@ -1,12 +1,24 @@
 .catalog {
-    background-color: #efe8e8;
+    background-color: #2b2f33;
 }
 
-.catalog h1{
+.catalog-header {
     text-align: center;
-    padding-top: 20px;
-    color: #a72c2c;
+    margin-bottom: 20px;
 }
+
+.catalog-header h1 {
+    color: #efefe9;
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.catalog-header h3 {
+    color: #efefe9;
+    font-size: 1.2rem;
+    margin: 0;
+}
+
 
 .catalog .filter {
     margin-bottom: 12px;

@@ -54,9 +54,9 @@ function Navbar() {
                             <a className="nav-link disabled" aria-disabled="true">Disabled</a>
                         </li>
                     </ul>
-                    <div className="d-flex" role="search">
+                    <div className="d-flex gap-2"  role="search">
                         <button className="btn btn-outline-success" type="name">{user.name}    </button>
-                        <Link className="btn btn-outline-success" to="/cart">
+                        <Link className="btn btn-light" to="/cart">
                            <span className="badge text-bg-secondary" >{cart.length}</span> View Cart
                         </Link>
                     </div>

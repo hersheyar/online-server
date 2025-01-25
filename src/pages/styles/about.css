@@ -1,11 +1,87 @@
-.about h1 {
+/* Main container */
+.about {
+    background-color: #2b2f33;
     color: #edf2f6;
+    font-family: Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-    background-color: #222e32;
+    animation: smoothFadeIn 1s ease-in-out;
 }
 
-.about h3 {
+/* Header section */
+.about-header {
+    margin-bottom: 30px;
+    animation: smoothFadeIn 1.2s ease-in-out;
+}
+
+.about-photo {
+    margin-bottom: 20px;
+}
+
+/* Profile photo */
+.profile-photo {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid #ff6b6b;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.profile-photo:hover {
+    transform: scale(1.1);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.5);
+}
+
+/* Name and title */
+.about-header h1 {
+    font-size: 4rem;
+    margin: 10px 0;
     color: #edf2f6;
-    text-align: center;
-    background-color: #222e32;
+}
+
+.about-header h3 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    color: #f4a261;
+    font-weight: 500;
+}
+
+/* Buttons */
+.about-content {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.about-btn {
+    background-color: #028090;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 12px 24px;
+    border-radius: 8px;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
+
+.about-btn:hover {
+    background-color: #05668d;
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+}
+
+.about-btn:active {
+    transform: scale(0.95);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }

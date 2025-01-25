@@ -66,7 +66,7 @@ function Admin() {
 
     return (
         <div className="adminPage page">
-            <h1>This is the Admin page!!</h1>
+            <h1>Admin Page</h1>
             <div className="adminRegister">
 
                 {/* Product Registration */}
